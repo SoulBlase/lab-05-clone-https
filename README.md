@@ -1,1 +1,2 @@
-# lab-05-clone-https
+This is lab 05
+It's about HTTPS
